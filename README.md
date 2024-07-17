@@ -32,7 +32,9 @@
   <img src="assets/technologies/flask.png" height="50" />
   <img src="assets/technologies/linux.png" height="50" />
   <img src="assets/technologies/docker.png" height="50" />
-  <img src="assets/technologies/git.png" height="50" />
+  <img src="assets/technologies/mongo.png" height="50" />
+  <img src="assets/technologies/litestar.png" height="50" />
+
 </p>
 
 ---
