@@ -37,6 +37,8 @@
   <img src="assets/technologies/aiogram.png" height="50" />
   <img src="assets/technologies/grafana.png" height="50" />
   <img src="assets/technologies/pytest.png" height="50" />
+  <img src="assets/technologies/kibana.png" height="50" />
+  <img src="assets/technologies/aws.png" height="50" />
 </p>
 
 ---
