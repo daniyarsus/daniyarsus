@@ -39,9 +39,6 @@
   <img src="assets/technologies/pytest.png" height="50" />
   <img src="assets/technologies/kibana.png" height="50" />
   <img src="assets/technologies/aws.png" height="50" />
-  <img src="assets/technologies/go.png" height="50" />
-  <img src="assets/technologies/gin.png" height="50" />
-  <img src="assets/technologies/gorm.png" height="50" />
 </p>
 
 ---
