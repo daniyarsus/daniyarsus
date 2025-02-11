@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+![LeetCode Stats](https://leetcode-profile-readme.vercel.app/api?username=Daniyarus)
+</p>
+
+---
+
 <h2 align="center">Technologies I Use</h2>
 
 <h3 align="center"Progamming languages</h3>
