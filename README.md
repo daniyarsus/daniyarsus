@@ -19,17 +19,23 @@
   <img src="assets/technologies/flask.png" height="50" />
   <img src="assets/technologies/litestar.png" height="50" />
   <img src="assets/technologies/sqlalchemy.png" height="50" />
+  <img src="assets/technologies/go.png" height="50" />
+  <img src="assets/technologies/gorm.png" height="50" />
   <img src="assets/technologies/redis.png" height="50" />
   <img src="assets/technologies/postgres.png" height="50" />
   <img src="assets/technologies/mysql.png" height="50" />
   <img src="assets/technologies/mongo.png" height="50" />
   <img src="assets/technologies/kassandra.png" height="50" />
   <img src="assets/technologies/grpc.png" height="50" />
+  <img src="assets/technologies/elasticsearch.png" height="50" />
+  <img src="assets/technologies/logstash.png" height="50" />
+  <img src="assets/technologies/kibana.png" height="50" />
 </p>
 
 
 <h3 align="center">ML/DS</h3>
 <p align="center">
+  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/numpy.png" height="50" />
   <img src="assets/technologies/pandas.png" height="50" />
   <img src="assets/technologies/matplotlib.png" height="50" />
@@ -38,6 +44,7 @@
 
 <h3 align="center">Bot</h3>
 <p align="center">
+  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/aiogram.png" height="50" />
 </p>
 
@@ -50,6 +57,7 @@
 
 <h3 align="center">Test</h3>
 <p align="center">
+  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/pytest.png" height="50" />
 </p>
 
