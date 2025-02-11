@@ -12,14 +12,19 @@
 
 <h2 align="center">Technologies I Use</h2>
 
-<h3 align="center">Backend</h3>
+<h3 align="center"Progamming languages</h3>
 <p align="center">
   <img src="assets/technologies/python.png" height="50" />
+  <img src="assets/technologies/go.png" height="50" />
+  <img src="assets/technologies/dart.png" height="50" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
   <img src="assets/technologies/fastapi.png" height="50" />
   <img src="assets/technologies/flask.png" height="50" />
   <img src="assets/technologies/litestar.png" height="50" />
   <img src="assets/technologies/sqlalchemy.png" height="50" />
-  <img src="assets/technologies/go.png" height="50" />
   <img src="assets/technologies/gorm.png" height="50" />
   <img src="assets/technologies/redis.png" height="50" />
   <img src="assets/technologies/postgres.png" height="50" />
@@ -35,29 +40,27 @@
 
 <h3 align="center">ML/DS</h3>
 <p align="center">
-  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/numpy.png" height="50" />
   <img src="assets/technologies/pandas.png" height="50" />
   <img src="assets/technologies/matplotlib.png" height="50" />
   <img src="assets/technologies/tensorflow.png" height="50" />
+  <img src="assets/technologies/pytorch.png" height="50" />
+  <img src="assets/technologies/huggingface.png" height="50" />
 </p>
 
 <h3 align="center">Bot</h3>
 <p align="center">
-  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/aiogram.png" height="50" />
 </p>
 
 
 <h3 align="center">Mobile</h3>
 <p align="center">
-  <img src="assets/technologies/dart.png" height="50" />
   <img src="assets/technologies/flutter.png" height="50" />
 </p>
 
 <h3 align="center">Test</h3>
 <p align="center">
-  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/pytest.png" height="50" />
 </p>
 
