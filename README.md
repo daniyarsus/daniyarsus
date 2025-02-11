@@ -12,32 +12,55 @@
 
 <h2 align="center">Technologies I Use</h2>
 
+<h3 align="center">Backend</h3>
 <p align="center">
+  <img src="assets/technologies/python.png" height="50" />
   <img src="assets/technologies/fastapi.png" height="50" />
-  <img src="assets/technologies/kafka.png" height="50" />
+  <img src="assets/technologies/flask.png" height="50" />
+  <img src="assets/technologies/litestar.png" height="50" />
   <img src="assets/technologies/sqlalchemy.png" height="50" />
   <img src="assets/technologies/redis.png" height="50" />
   <img src="assets/technologies/postgres.png" height="50" />
   <img src="assets/technologies/mysql.png" height="50" />
-  <img src="assets/technologies/sqlite.png" height="50" />
+  <img src="assets/technologies/mongo.png" height="50" />
   <img src="assets/technologies/kassandra.png" height="50" />
   <img src="assets/technologies/grpc.png" height="50" />
-  <img src="assets/technologies/flutter.png" height="50" />
-  <img src="assets/technologies/python.png" height="50" />
-  <img src="assets/technologies/dart.png" height="50" />
-  <img src="assets/technologies/tensorflow.png" height="50" />
+</p>
+
+
+<h3 align="center">ML/DS</h3>
+<p align="center">
   <img src="assets/technologies/numpy.png" height="50" />
   <img src="assets/technologies/pandas.png" height="50" />
   <img src="assets/technologies/matplotlib.png" height="50" />
-  <img src="assets/technologies/flask.png" height="50" />
-  <img src="assets/technologies/linux.png" height="50" />
-  <img src="assets/technologies/docker.png" height="50" />
-  <img src="assets/technologies/mongo.png" height="50" />
-  <img src="assets/technologies/litestar.png" height="50" />
+  <img src="assets/technologies/tensorflow.png" height="50" />
+</p>
+
+<h3 align="center">Bot</h3>
+<p align="center">
   <img src="assets/technologies/aiogram.png" height="50" />
-  <img src="assets/technologies/grafana.png" height="50" />
+</p>
+
+
+<h3 align="center">Mobile</h3>
+<p align="center">
+  <img src="assets/technologies/dart.png" height="50" />
+  <img src="assets/technologies/flutter.png" height="50" />
+</p>
+
+<h3 align="center">Test</h3>
+<p align="center">
   <img src="assets/technologies/pytest.png" height="50" />
-  <img src="assets/technologies/kibana.png" height="50" />
+</p>
+
+<h3 align="center">OS/Distributives</h3>
+<p align="center">
+  <img src="assets/technologies/linux.png" height="50" />
+</p>
+
+<h3 align="center">Containers, deploy etc.</h3>
+<p align="center">
+  <img src="assets/technologies/docker.png" height="50" />
   <img src="assets/technologies/aws.png" height="50" />
 </p>
 
