@@ -10,13 +10,9 @@
 
 ---
 
-<p align="center">
-![LeetCode Stats](https://leetcode-profile-readme.vercel.app/api?username=Daniyarus)
-</p>
+<h2 align="center">Technologies I Use</h2>
 
 ---
-
-<h2 align="center">Technologies I Use</h2>
 
 <h3 align="center"Progamming languages</h3>
 <p align="center">
@@ -24,6 +20,8 @@
   <img src="assets/technologies/go.png" height="50" />
   <img src="assets/technologies/dart.png" height="50" />
 </p>
+
+---
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -43,6 +41,7 @@
   <img src="assets/technologies/kibana.png" height="50" />
 </p>
 
+---
 
 <h3 align="center">ML/DS</h3>
 <p align="center">
@@ -54,16 +53,21 @@
   <img src="assets/technologies/huggingface.png" height="50" />
 </p>
 
+---
+
 <h3 align="center">Bot</h3>
 <p align="center">
   <img src="assets/technologies/aiogram.png" height="50" />
 </p>
 
+---
 
 <h3 align="center">Mobile</h3>
 <p align="center">
   <img src="assets/technologies/flutter.png" height="50" />
 </p>
+
+---
 
 <h3 align="center">Test</h3>
 <p align="center">
@@ -74,6 +78,8 @@
 <p align="center">
   <img src="assets/technologies/linux.png" height="50" />
 </p>
+
+---
 
 <h3 align="center">Containers, deploy etc.</h3>
 <p align="center">
