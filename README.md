@@ -67,6 +67,7 @@
 <h3 align="center">OS/Distributives</h3>
 <p align="center">
   <img src="assets/technologies/linux.png" height="50" />
+  <img src="assets/technologies/ubuntu.png" height="50" />
 </p>
 
 <h3 align="center">Containers, deploy etc.</h3>
