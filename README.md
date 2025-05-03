@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm daniyarsus!</h1>
 
 <p align="center">
-  <img src="assets/common/akasaka_ryūnosuke.png" height="200">
+  <img src="assets/common/trap.jpg" height="200">
 </p>
 
 <h3 align="center">My name is Daniyar, and I'm passionate about building with various technologies. Here's a snapshot of what I work with:</h4>
