@@ -16,6 +16,7 @@
 <p align="center">
   • Backend engineer (Python, Go) <br>
   • AI/ML engineer <br>
+  • DevOPS engineer (Docker, k8s) <br>
   • Mobile developer (Flutter)
 </p>
 
