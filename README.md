@@ -11,10 +11,7 @@
 ---
 
 
-<h3 align="center">My stack</h3>
+<h3 align="center">Just a programmer</h3>
 
-<p align="center">
-  • Just a programmer <br>
-</p>
 
 ---
